@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Recreated a rubber ducky using adruino micro pro and a USB to Micro-B adapter which enables us to connect arduino as a USB to the computer.
+- Recreated a rubber ducky using arduino micro pro and a USB to Micro-B adapter which enables us to connect arduino as a USB to the computer.
 
 - Arduino Micro Pro board has a USB transceiver inside 34U4 which allows us to connect.
 
